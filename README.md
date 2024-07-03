@@ -382,3 +382,9 @@ The following test deliverables will be provided by the end of the testing proce
 ## 3.1 Traceability matrix
 ![image](https://github.com/pwwein97/Reddit-Jira/assets/164913359/f1e79fe6-640c-43db-a7df-51cb9eef84b0)
 
+## 3.2 Test case results
+![image](https://github.com/pwwein97/Reddit-Jira/assets/164913359/e28bf142-ff12-41dc-9977-040af097b810)
+![image](https://github.com/pwwein97/Reddit-Jira/assets/164913359/31a52f2c-46f6-4f08-8146-cb7ffb18eb86)
+
+
+
