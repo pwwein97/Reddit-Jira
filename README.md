@@ -6,24 +6,27 @@
 |------------|------------------------------------|-----------------|-------------------------------|
 | 02.05.2024 | Test Plan for Reddit Version 2024  | Boier Alexandru | Test plan version 1.0 (initial version) |
 
-## Table of Content:
-1. [Introduction](#introduction)
-   1.1 [Project Objective](#project-objective)
-   1.2 [Functionalities in scope](#functionalities-in-scope)
-   1.3 [Functionalities and tests out of scope](#functionalities-and-tests-out-of-scope)
-2. [Test process](#test-process)
-   2.1 [Test planning](#test-planning)
-   2.2 [Test analysis](#test-analysis)
-   2.3 [Test design](#test-design)
-   2.4 [Test implementation](#test-implementation)
-   2.5 [Test execution](#test-execution)
-   2.6 [Test closure](#test-closure)
-   2.7 [Test monitoring and control](#test-monitoring-and-control)
-3. [Test deliverables](#test-deliverables)
-   3.1 [Traceability matrix](#traceability-matrix)
-   3.2 [Test case results](#test-case-results)
-   3.3 [Bugs report](#bugs-report)
-4. [Schedule](#schedule)
+## Introduction
+1.1 Project Objective  
+1.2 Functionalities in scope  
+1.3 Functionalities and tests out of scope  
+
+## Test Process
+2.1 Test planning  
+2.2 Test analysis  
+2.3 Test design  
+2.4 Test implementation  
+2.5 Test execution  
+2.6 Test closure  
+2.7 Test monitoring and control  
+
+## Test Deliverables
+3.1 Traceability matrix  
+3.2 Test case results  
+3.3 Bugs report  
+
+## Schedule
+
 
 ## 1. Introduction
 
