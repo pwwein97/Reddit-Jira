@@ -339,3 +339,42 @@ To ensure that we have all the details necessary for creating the test condition
     2. The user has a number on top of the icon displaying a new message.
   - **Expected Result:** The user receives a notification about direct messages.
   - **Pass/Fail Criteria:** The notification appears at the top right of the screen on top of the "open chat" icon.
+    - **Test Case 6.3: Receiving Notifications Based on Preferences**
+  - **Preconditions:** User has customized their notification preferences and enabled notifications.
+  - **Steps:**
+    1. User must be logged into their Reddit account.
+    2. Click on the bell at the top right.
+    3. Click on "View Settings."
+    4. Choose the desired settings.
+  - **Expected Result:** Notifications should be received according to the user's customized preferences.
+  - **Pass/Fail Criteria:** Notifications are received correctly as per the preferences.
+
+## 2.4 Test Implementation
+- Verify if the test environment is up and running.
+- Access to the test environment is given: valid username and valid password.
+- Create test suites (Test cycles).
+- Prioritize the test cases based on risks and business priority.
+
+## 2.5 Test Execution
+- All functional test cases created in the Test Design phase are executed, and we set the test case status (passed/failed).
+- For the test cases that failed, we will raise defects.
+- Run the regression pack.
+- Retesting for the bugs that are fixed by the developers to validate that the issues are not reproduced.
+
+## 2.6 Test Closure
+- Analyze if the exit criteria were met and the testing process can be closed.
+- Generate the traceability matrix.
+- Generate the test completion report.
+
+## 2.7 Test Monitoring and Control
+In this phase, various periodic reports will be generated to reflect the current status of the testing process. In case of major problems, control measures could be taken.
+
+## 3. Test Deliverables
+
+The following test deliverables will be provided by the end of the testing process and sent to the stakeholders to create the basis of informed decision:
+
+- Test Plan Document
+- Test Cases and Test Scripts
+- Defect Reports
+- Test Summary Report
+- Test Execution Logs
