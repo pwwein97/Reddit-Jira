@@ -6,7 +6,7 @@
 |------------|------------------------------------|-----------------|-------------------------------|
 | 02.05.2024 | Test Plan for Reddit Version 2024  | Boier Alexandru | Test plan version 1.0 (initial version) |
 
-## Table of Content:
+## Table of Contents:
 
 ### 1.Introduction
 1.1 Project Objective  
