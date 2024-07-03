@@ -378,3 +378,7 @@ The following test deliverables will be provided by the end of the testing proce
 - Defect Reports
 - Test Summary Report
 - Test Execution Logs
+
+## 3.1 Traceability matrix
+![image](https://github.com/pwwein97/Reddit-Jira/assets/164913359/f1e79fe6-640c-43db-a7df-51cb9eef84b0)
+
