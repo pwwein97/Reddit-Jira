@@ -6,25 +6,24 @@
 |------------|------------------------------------|-----------------|-------------------------------|
 | 02.05.2024 | Test Plan for Reddit Version 2024  | Boier Alexandru | Test plan version 1.0 (initial version) |
 
-## Table of Contents
-
-1. [Introduction](#1-introduction)
-   1. [Project Objective](#11-project-objective)
-   2. [Functionalities in Scope](#12-functionalities-in-scope)
-   3. [Functionalities and Tests Out of Scope](#13-functionalities-and-tests-out-of-scope)
-2. [Test Process](#2-test-process)
-   1. [Test Planning](#21-test-planning)
-   2. [Test Analysis](#22-test-analysis)
-   3. [Test Design](#23-test-design)
-   4. [Test Implementation](#24-test-implementation)
-   5. [Test Execution](#25-test-execution)
-   6. [Test Closure](#26-test-closure)
-   7. [Test Monitoring and Control](#27-test-monitoring-and-control)
-3. [Test Deliverables](#3-test-deliverables)
-   1. [Traceability Matrix](#31-traceability-matrix)
-   2. [Test Case Results](#32-test-case-results)
-   3. [Bugs Report](#33-bugs-report)
-4. [Schedule](#4-schedule)
+## Table of Content:
+1. [Introduction](#introduction)
+   1.1 [Project Objective](#project-objective)
+   1.2 [Functionalities in scope](#functionalities-in-scope)
+   1.3 [Functionalities and tests out of scope](#functionalities-and-tests-out-of-scope)
+2. [Test process](#test-process)
+   2.1 [Test planning](#test-planning)
+   2.2 [Test analysis](#test-analysis)
+   2.3 [Test design](#test-design)
+   2.4 [Test implementation](#test-implementation)
+   2.5 [Test execution](#test-execution)
+   2.6 [Test closure](#test-closure)
+   2.7 [Test monitoring and control](#test-monitoring-and-control)
+3. [Test deliverables](#test-deliverables)
+   3.1 [Traceability matrix](#traceability-matrix)
+   3.2 [Test case results](#test-case-results)
+   3.3 [Bugs report](#bugs-report)
+4. [Schedule](#schedule)
 
 ## 1. Introduction
 
