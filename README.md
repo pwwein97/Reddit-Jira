@@ -386,5 +386,50 @@ The following test deliverables will be provided by the end of the testing proce
 ![image](https://github.com/pwwein97/Reddit-Jira/assets/164913359/e28bf142-ff12-41dc-9977-040af097b810)
 ![image](https://github.com/pwwein97/Reddit-Jira/assets/164913359/31a52f2c-46f6-4f08-8146-cb7ffb18eb86)
 
+### 3.3 Bugs Report
+
+#### 1. Error at replying to other user's comments
+
+**Description:**
+When a user attempts to reply to another user's comment, the chatbox to write the comment for the other user does not open, therefore we can’t reply to a comment.
+
+**Reproduction Steps:**
+1. Open the Reddit website.
+2. Login with valid user credentials.
+3. Search for the desired post either on the main page or using the search and filters.
+4. Open the comments tab with the "chatbox" icon below the post.
+5. Look for the desired comment.
+6. Click on the "chatbox" icon below the comment to reply.
+7. Write the desired comment in the newly opened field and then click on the "comment" button.
+
+**Expected Result:** The reply should be posted successfully and appear under the original comment.
+
+**Actual Result:** An error message is displayed, and the reply is not posted. The error message reads: "An error occurred while posting your reply. Please try again later."
+
+---
+
+#### 2. Error at changing notification settings
+
+**Description:**
+Users encounter an error when attempting to change their notification settings. The changes are not saved, and an error message is displayed.
+
+**Reproduction Steps:**
+1. Open the Reddit website.
+2. Login with valid user credentials.
+3. Click on the “bell” icon at the top right of the screen, then on “view settings.”
+4. From the notifications tab, tick the desired settings that you wish to have enabled or disabled.
+5. Click the "Save" button.
+
+**Expected Result:** The user can customize their notification settings.
+
+**Actual Result:** The user can’t change any settings because all of them are greyed out.
+
+---
+
+### 4. Schedule
+
+- The testing process will take place over a period of 1 week and will involve all the activities defined in the previous section.
+- All the resources will be adapted accordingly in case new testing resources are detected as necessary.
+
 
 
