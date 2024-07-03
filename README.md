@@ -25,7 +25,7 @@
 ### 3. Test Deliverables
 3.1 Traceability matrix  
 3.2 Test case results  
-3.3 Bugs report 
+3.3 Bugs report  
 3.4 Test completion report
 
 ### 4. Schedule
