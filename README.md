@@ -432,6 +432,16 @@ Users encounter an error when attempting to change their notification settings. 
 
 ---
 
+### 3.3 Test Completion Report
+
+The final report shows that a number of 2 tests have failed out of a total of 23.
+
+A total of 2 bugs were found, with the following priorities:
+- Error at replying to other user's comments (**HIGH**)
+- Error at changing notification settings (**Medium**)
+
+In conclusion, after going through all the user stories, creating and executing all the 23 tests with a 100% statement coverage, the 2 bugs that were found are not making the product prone to failure because they can easily be fixed, allowing users to enjoy the product to its full potential.
+
 ### 4. Schedule
 
 - The testing process will take place over a period of 1 week and will involve all the activities defined in the previous section.
