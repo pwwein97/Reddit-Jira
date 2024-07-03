@@ -432,7 +432,7 @@ Users encounter an error when attempting to change their notification settings. 
 
 ---
 
-### 3.3 Test Completion Report
+### 3.4 Test Completion Report
 
 The final report shows that a number of 2 tests have failed out of a total of 23.
 
