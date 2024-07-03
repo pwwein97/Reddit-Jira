@@ -6,12 +6,12 @@
 |------------|------------------------------------|-----------------|-------------------------------|
 | 02.05.2024 | Test Plan for Reddit Version 2024  | Boier Alexandru | Test plan version 1.0 (initial version) |
 
-# 1.Introduction
+### 1.Introduction
 1.1 Project Objective  
 1.2 Functionalities in scope  
 1.3 Functionalities and tests out of scope  
 
-# 2.Test Process
+### 2.Test Process
 2.1 Test planning  
 2.2 Test analysis  
 2.3 Test design  
@@ -20,12 +20,12 @@
 2.6 Test closure  
 2.7 Test monitoring and control  
 
-# 3. Test Deliverables
+### 3. Test Deliverables
 3.1 Traceability matrix  
 3.2 Test case results  
 3.3 Bugs report  
 
-# 4. Schedule
+### 4. Schedule
 
 
 ## 1. Introduction
