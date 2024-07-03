@@ -232,3 +232,110 @@ To ensure that we have all the details necessary for creating the test condition
     4. Click "Submit."
   - **Expected Result:** Post is created and displayed in the subreddit.
   - **Pass/Fail Criteria:** Post appears correctly with the entered content.
+ - **Test Case 3.2: Edit an Existing Post**
+  - **Preconditions:** User is logged in and has a post created.
+  - **Steps:**
+    1. Make sure you are logged in.
+    2. Navigate to user profile.
+    3. Select a post to edit.
+    4. Modify post content.
+    5. Save changes.
+  - **Expected Result:** Changes to the post are saved successfully.
+  - **Pass/Fail Criteria:** The changes are saved successfully, and the post updates with the new content.
+
+- **Test Case 3.3: Delete Existing Post**
+  - **Preconditions:** 
+    1. User is logged in.
+    2. User has an existing post.
+  - **Steps:**
+    1. Navigate to the post.
+    2. Click "Delete."
+    3. Confirm the deletion.
+  - **Expected Result:** Post is deleted and no longer visible.
+  - **Pass/Fail Criteria:** Post is removed from the subreddit.
+
+### Test Scenario 4: Comments and Votes
+
+- **Test Case 4.1: Add Comment to a Post**
+  - **Preconditions:** User is logged in and viewing a post.
+  - **Steps:**
+    1. Navigate to the comments section of the post.
+    2. Enter comment content.
+    3. Click "Submit."
+  - **Expected Result:** Comment is added and displayed under the post.
+  - **Pass/Fail Criteria:** Comment appears correctly with the entered content.
+
+- **Test Case 4.2: Vote on a Comment**
+  - **Preconditions:** User is logged into their Reddit account. User is viewing a post with comments.
+  - **Steps:**
+    1. Navigate to the comments section of the post.
+    2. Identify the comment on which you want to vote.
+    3. Click on the upvote or downvote arrow next to the comment.
+  - **Expected Result:** The vote count for the comment increases (for upvote) or decreases (for downvote) by one.
+  - **Pass/Fail Criteria:** The vote count for the comment accurately reflects the user's action.
+
+- **Test Case 4.3: Reply to an Existing Comment on Reddit**
+  - **Preconditions:** User is logged into their Reddit account. User is viewing a post with comments.
+  - **Steps:**
+    1. Navigate to the comments section of the post.
+    2. Identify the comment to which you want to reply.
+    3. Click on the "Reply" button.
+    4. Enter the reply content and click "Submit."
+  - **Expected Result:** The reply is successfully posted and displayed directly beneath the comment.
+  - **Pass/Fail Criteria:** The reply is successfully posted and displayed directly beneath the comment.
+
+- **Test Case 4.4: Filtering and Sorting Comments**
+  - **Preconditions:** User is logged into their Reddit account. User is viewing a post with multiple comments.
+  - **Steps:**
+    1. Navigate to the comments section of the post.
+    2. Locate the filter options next to "Sort by".
+    3. Select a filter criterion such as: Best, Top, New, etc.
+  - **Expected Result:** Comments are filtered based on the selected criterion.
+  - **Pass/Fail Criteria:** Comments are displayed in the order specified by the selected filter.
+
+- **Test Case 4.5: Deleting a Comment**
+  - **Preconditions:** User is logged into their Reddit account. User has previously posted a comment.
+  - **Steps:**
+    1. Navigate to the post where the comment to be deleted is located.
+    2. Locate the comment that the user wants to delete.
+    3. Find the "Delete" option or link associated with the comment.
+    4. Confirm the deletion action by clicking "Delete" or "Confirm" in the prompt.
+  - **Expected Result:** The comment is successfully deleted from the post and no longer visible to other users.
+  - **Pass/Fail Criteria:** The comment is successfully deleted from the post and no longer visible to other users.
+
+### Test Scenario 5: Searching for Posts by Keywords and Filtering
+
+- **Test Case 5.1: Search with Common Keyword**
+  - **Preconditions:** User is logged in.
+  - **Steps:**
+    1. Navigate to the search bar.
+    2. Enter a common keyword.
+    3. Press "Enter" or click the search icon.
+  - **Expected Result:** A list of posts containing the keyword is displayed.
+  - **Pass/Fail Criteria:** The search results are relevant and sorted by relevance or date.
+
+- **Test Case 5.2: Combination of Search and Filtering**
+  - **Preconditions:** User is logged in and has performed a search.
+  - **Steps:**
+    1. Make sure you are logged in.
+    2. Use the search bar.
+    3. Apply a filter (from relevance/All time).
+  - **Expected Result:** The filtered search results are relevant and adhere to the selected filters.
+  - **Pass/Fail Criteria:** The search results are accurate and relevant to the entered query.
+
+### Test Scenario 6: Notifications and Content of Interest
+
+- **Test Case 6.1: Notifications for Comment Replies and Mentions**
+  - **Preconditions:** User is logged in and has commented on a post.
+  - **Steps:**
+    1. Another user replies to the user's comment or mentions them.
+  - **Expected Result:** The notification appears in the user's notification list (top right bell icon) with correct details about the reply.
+  - **Pass/Fail Criteria:** The user receives a notification about the reply/mention on a post.
+
+- **Test Case 6.2: Notifications for Direct Messages and Mentions**
+  - **Preconditions:** User is logged in. User has received a message from another user.
+  - **Steps:**
+    1. Navigate to the top right of the screen at the "open chat" icon.
+    2. The user has a number on top of the icon displaying a new message.
+  - **Expected Result:** The user receives a notification about direct messages.
+  - **Pass/Fail Criteria:** The notification appears at the top right of the screen on top of the "open chat" icon.
