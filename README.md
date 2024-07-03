@@ -8,7 +8,7 @@
 
 ## Table of Contents:
 
-### [1.Introduction](#introduction)
+[1.Introduction](#introduction)
 1.1 Project Objective  
 1.2 Functionalities in scope  
 1.3 Functionalities and tests out of scope  
